@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const BASE_URL = "https://strideapp.vercel.app";
+const BASE_URL = "https://getstrideapp.vercel.app";
 const OG_IMAGE = `${BASE_URL}/assets/icon.png`;
 
 export const metadata: Metadata = {

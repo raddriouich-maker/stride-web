@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://strideapp.vercel.app/</loc>
+    <loc>https://getstrideapp.vercel.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog</loc>
+    <loc>https://getstrideapp.vercel.app/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/morning-routine-productivity</loc>
+    <loc>https://getstrideapp.vercel.app/blog/morning-routine-productivity</loc>
     <lastmod>2026-03-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/how-to-stay-focused-studying</loc>
+    <loc>https://getstrideapp.vercel.app/blog/how-to-stay-focused-studying</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/breathing-exercises-stress-relief</loc>
+    <loc>https://getstrideapp.vercel.app/blog/breathing-exercises-stress-relief</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/daily-journaling-mental-health</loc>
+    <loc>https://getstrideapp.vercel.app/blog/daily-journaling-mental-health</loc>
     <lastmod>2026-03-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/pomodoro-technique-guide</loc>
+    <loc>https://getstrideapp.vercel.app/blog/pomodoro-technique-guide</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/how-to-build-habits</loc>
+    <loc>https://getstrideapp.vercel.app/blog/how-to-build-habits</loc>
     <lastmod>2026-03-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/best-free-productivity-apps-android-2026</loc>
+    <loc>https://getstrideapp.vercel.app/blog/best-free-productivity-apps-android-2026</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/how-to-track-your-mood</loc>
+    <loc>https://getstrideapp.vercel.app/blog/how-to-track-your-mood</loc>
     <lastmod>2026-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/blog/improve-sleep-quality-tips</loc>
+    <loc>https://getstrideapp.vercel.app/blog/improve-sleep-quality-tips</loc>
     <lastmod>2026-02-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://strideapp.vercel.app/privacy</loc>
+    <loc>https://getstrideapp.vercel.app/privacy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

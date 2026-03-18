@@ -4,7 +4,7 @@ import { articles, getArticle, formatDate, type Block } from "@/lib/articles";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
-const BASE_URL = "https://strideapp.vercel.app";
+const BASE_URL = "https://getstrideapp.vercel.app";
 
 interface Props {
   params: Promise<{ slug: string }>;

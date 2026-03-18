@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const BASE_URL = "https://strideapp.vercel.app";
+const BASE_URL = "https://getstrideapp.vercel.app";
 
 export const metadata: Metadata = {
   title: "Privacy Policy — Stride",

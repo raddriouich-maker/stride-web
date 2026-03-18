@@ -29,8 +29,8 @@ Everyone
 
 ## Contact
 - Email: (à remplir)
-- Website: https://strideapp.vercel.app
-- Privacy Policy: https://strideapp.vercel.app/privacy
+- Website: https://getstrideapp.vercel.app
+- Privacy Policy: https://getstrideapp.vercel.app/privacy
 
 ## Alternative Titles (if renaming)
 | Option | Title | Chars | Keywords |
